@@ -5,3 +5,6 @@ cd
 sudo su
 ll
 ls -la
+whoami
+ifconfig
+ll
